@@ -28,7 +28,7 @@ const Link = styled.a`
 const Footer = props => {
     return (
         <FooterContainer>
-            <H3>This project uses <Link href='https://reactjs.org/'>React</Link>, <Link href='https://styled-components.com/'>styled-components</Link> and <Link href='http://react-animations.herokuapp.com/'>react-animations</Link>.<br />This project was created with educational purposes. <Link href='#'>GitHub</Link></H3>
+            <H3>This project uses <Link href='https://reactjs.org/'>React</Link>, <Link href='https://styled-components.com/'>styled-components</Link> and <Link href='http://react-animations.herokuapp.com/'>react-animations</Link>.<br />This project was created with educational purposes. <Link href='https://github.com/IvanMankovich/SortingAlgorithms'>GitHub</Link></H3>
         </FooterContainer>
     )
 };
