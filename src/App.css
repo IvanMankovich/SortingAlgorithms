@@ -1,0 +1,76 @@
+/* .row {
+    display: inline-block;
+    width: 50%;
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+
+.row:last-of-type {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.row > label,
+.row > input,
+.row > select {
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 14px;
+    width: 50%;
+} */
+
+/* button {
+    padding: 5px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border: none;
+}
+
+button:hover {
+    background-color: #4b4b4b;
+} */
+
+/* @media screen and (max-width: 640px) {
+    .row {
+        display: block;
+        width: 100%;
+    }
+
+    .row:last-of-type {
+        display: block;
+        width: 100%;
+    }
+
+    .row > button {
+        display: block;
+        text-align: center;
+        width: 100%;
+        margin: 0.5em 0;
+    }
+} */
+
+/* @media screen and (max-width: 320px) {
+    .row,
+    .row:last-of-type {
+        display: block;
+        width: 100%;
+    }
+
+    .row > label,
+    .row > input,
+    .row > select,
+    .row > button {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+
+    .row > label {
+        padding: 0.5em;
+    }
+
+    .row > button {
+        margin: 0.5em 0;
+    }
+} */
